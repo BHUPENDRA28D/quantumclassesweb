@@ -679,7 +679,7 @@ h3.tittle2 {
 }
 .copy-section {
     padding: 0 0 2em 0;
-    background: #3B5998;
+    background: #252526;
     text-align: center;
 }
 .copy-section p {
@@ -703,7 +703,7 @@ h3.tittle2 {
 .social-icons a i {
     width: 32px;
     height: 32px;
-    background:#283B66  url(../images/img-sprite.png) no-repeat 0px 0px;
+    background:#494a4a  url(../images/img-sprite.png) no-repeat 0px 0px;
     display: inline-block;
 	margin:0 0.2em;
 	transition: 0.5s all;
